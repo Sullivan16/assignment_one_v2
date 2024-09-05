@@ -22,3 +22,8 @@ hanges to be committed:
         modified:   README.md
         modified:   hello.py
         new file:   junk.txt
+## Purpose of the following Commands:        
+ - `mkdir`: makes new directory
+- `cd`: change directory
+- `code`:track changes in source code during software development
+- `ls`: lists current directory contents
