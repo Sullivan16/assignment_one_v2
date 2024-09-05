@@ -27,3 +27,8 @@ hanges to be committed:
 - `cd`: change directory
 - `code`:track changes in source code during software development
 - `ls`: lists current directory contents
+
+## Why Version Control is Important
+Version control is important for keeping track of changes to code, files, and other digital assets
+#### with version control, it is possible to: revert changes easily keeps history
+## Purpose of the following Git Commands
